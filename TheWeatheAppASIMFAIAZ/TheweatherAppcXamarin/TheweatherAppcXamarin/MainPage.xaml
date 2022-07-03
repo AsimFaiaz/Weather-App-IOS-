@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:forms="http://xamarin.com/schemas/2014/forms"
+             mc:Ignorable="d"
+             x:Class="TheweatherAppcXamarin.MainPage">
+
+ 
+
+    <!--CurrentWeather Page-->
+
+
+<Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0">
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2.5*"/>
+   
+        </Grid.RowDefinitions>
+
+        <Grid>
+            
+        </Grid>
+
+
+        <StackLayout BackgroundColor="#344955" Opacity="0.8">
+
+            <ImageButton Source="menu.png"
+                    HorizontalOptions="EndAndExpand"
+                    Padding="20,5,5,5"
+                    WidthRequest="50"
+                    HeightRequest="120"
+                    Clicked="ImageButton_Clicked">
+            </ImageButton>
+
+           
+
+
+        </StackLayout>
+
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0">
+
+
+
+            <Label x:Name="city"
+                   Text="Callaghan,NSW"
+                   TextColor="SkyBlue"
+                   FontSize="35"
+                   FontAttributes="Bold">
+            </Label>
+
+
+            <Label x:Name="temp"
+                   Text="25°"
+                   TextColor="SkyBlue"
+                   FontSize="30"
+                   HorizontalOptions="Center">
+            </Label>
+
+            <Label x:Name="condition"
+                   Text="Cloudy"
+                   TextColor="SkyBlue"
+                   FontSize="30"
+                   HorizontalOptions="Center" >
+            </Label>
+
+        </StackLayout>
+
+         <!--Use ScrollView to see all the datas I put about weather-->
+        <ScrollView Grid.Row="1" BackgroundColor="#344955">
+
+            <StackLayout>
+
+
+
+                <Label Text="Wind Speed"
+                       FontSize="Large"
+                       Margin="10,10,0,0"></Label>
+                  <Image Source="wind.png"
+                       Margin="10,10,0,0"
+                       HorizontalOptions="Start"
+                       WidthRequest="40"
+                       HeightRequest="30"></Image>  
+                    <Label x:Name="wind" Text="Wind Speed"
+                       Margin="10,10,0,0"
+                       FontSize="Large"
+                       TextColor="SkyBlue" />
+               
+                 
+                 <Label Text="Humidity"
+                       FontSize="Large"
+                       Margin="10,10,0,0"></Label>
+                 <Image Source="humidity.png"
+                       Margin="10,10,0,0"
+                       HorizontalOptions="Start"
+                       WidthRequest="40"
+                       HeightRequest="30"></Image>
+                <Label x:Name="humidity"
+                       Text="Humidity"
+                       Margin="10,10,0,0"
+                       FontSize="Large"
+                       TextColor="SkyBlue" />
+
+               
+                 <Label Text="Visibility"
+                       FontSize="Large"
+                       Margin="10,10,0,0"></Label>
+                 <Image Source="visibility.png"
+                       Margin="10,10,0,0"
+                       HorizontalOptions="Start"
+                       WidthRequest="40"
+                       HeightRequest="30"></Image>
+                <Label x:Name="visibility"
+                       Text="Visibility"
+                       Margin="10,10,0,0"
+                       FontSize="Large"
+                       TextColor="SkyBlue"/>
+
+                 <Label Text="Cloudiness"
+                       FontSize="Large"
+                       Margin="10,10,0,0"></Label>
+                <Image Source="cloudy.png"
+                       Margin="10,10,0,0"
+                       HorizontalOptions="Start"
+                       WidthRequest="40"
+                       HeightRequest="30"></Image>
+                <Label x:Name="cloudiness"
+                       Text="Cloudiness"
+                       Margin="10,10,0,0"
+                       FontSize="Large"
+                       TextColor="SkyBlue"/>
+
+
+                 <Label Text="Air Pressure"
+                       FontSize="Large"
+                       Margin="10,10,0,0"></Label> 
+                <Image Source="pressure.png"
+                       Margin="10,10,0,0"
+                       HorizontalOptions="Start"
+                       WidthRequest="40"
+                       HeightRequest="30"></Image>
+                 <Label x:Name="pressure"
+                       Text="Pressure"
+                       Margin="10,10,0,0"
+                       FontSize="Large"
+                       TextColor="SkyBlue"/>
+
+
+                <Label Text="Temp Min"
+                       FontSize="Large"
+                       Margin="10,10,0,0"></Label>
+                 <Image Source="TempMin.png"
+                       Margin="10,10,0,0"
+                       HorizontalOptions="Start"
+                       WidthRequest="40"
+                       HeightRequest="30"></Image>
+                <Label x:Name="tempMin" 
+                       Margin="10,10,0,0"
+                       FontSize="Large"
+                       TextColor="SkyBlue"/>
+
+
+                <Label Text="Temp Max"
+                       FontSize="Large"
+                       Margin="10,10,0,0"></Label>
+                 <Image Source="TempMax.png"
+                       Margin="10,10,0,0"
+                       HorizontalOptions="Start"
+                       WidthRequest="40"
+                       HeightRequest="30"></Image>
+                <Label x:Name="tempMax"
+                       Margin="10,10,0,0"
+                       FontSize="Large"
+                       TextColor="SkyBlue"/>
+
+            </StackLayout> 
+        </ScrollView>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,82 @@
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.deps.json
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfoInputs.cache
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfo.cs
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.csprojAssemblyReference.cache
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.deps.json
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfoInputs.cache
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfo.cs
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/untitled folder/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.csprojAssemblyReference.cache
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.deps.json
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.csprojAssemblyReference.cache
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfoInputs.cache
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfo.cs
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.deps.json
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.csprojAssemblyReference.cache
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfoInputs.cache
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfo.cs
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.csproj.CoreCompileInputs.cache
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/Niamatullah/Desktop/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ButtonPage.xaml.g.cs
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.deps.json
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.csprojAssemblyReference.cache
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ButtonPage.xaml.g.cs
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfoInputs.cache
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfo.cs
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.deps.json
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/bin/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.csprojAssemblyReference.cache
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ButtonPage.xaml.g.cs
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfoInputs.cache
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.AssemblyInfo.cs
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/ref/TheweatherAppcXamarin.dll
+/Users/c3296512/Desktop/untitled folder 5/Last night work/Working Project/TheweatherAppcXamarin/TheweatherAppcXamarin/obj/Debug/netstandard2.0/TheweatherAppcXamarin.pdb
